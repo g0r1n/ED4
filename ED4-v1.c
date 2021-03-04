@@ -17,11 +17,11 @@ int option, i; /* variavel de opcao do usuario e controlador de loop */
 // PROCESSAMENTO
 for(i=0;i<=10;i++){                                         /*no loop foi atribuido 10 tentativas ao cliente, a cada opcao*/
     printf("=== CAIXA ELETRÔNICO ===\n");                   /*entra no switch e imprime respectivamente o que foi escolhido, voltando para o loop até ser*/
-    printf("1 - Sacar.\n");´                                /*o usuario escolher a opcao 4 que encerre o programa, ou atingir 10 tentativas.*/
+    printf("1 - Sacar.\n");                                /*o usuario escolher a opcao 4 que encerre o programa, ou atingir 10 tentativas.*/
     printf("2 - Depositar.\n");
     printf("3 - Saldo/Extrato.\n");
     printf("4 - Encerrar programa.\n");
-    printf("obs: voce tem 10 tentativas.")
+    printf("obs: voce tem 10 tentativas.\n\n");
 
     printf("Digite a opcao desejada: ");
     scanf("%d",&option);
