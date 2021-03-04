@@ -1,7 +1,7 @@
 /*****************************************
    Enunciado: Menu (Caixa eletrônico)
    Autor: Wilson da Silva Goltara
-   Histórico de versões: v1
+   Histórico de versões: v1.1
 *****************************************/
 
 /* Importações de Bibliotecas */
