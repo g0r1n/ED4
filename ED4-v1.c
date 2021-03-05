@@ -12,8 +12,6 @@ int main() {
 /* Declarações de variáveis */
 int option, i; /* variavel de opcao do usuario e controlador de loop */
 
-// ENTRADA
-
 // PROCESSAMENTO
 for(i=0;i<=10;i++){                                         /*no loop foi atribuido 10 tentativas ao cliente, a cada opcao*/
     printf("=== CAIXA ELETRÔNICO ===\n");                   /*entra no switch e imprime respectivamente o que foi escolhido, voltando para o loop até ser*/
